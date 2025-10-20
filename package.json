@@ -1,7 +1,7 @@
 {
-  "name": "ecosystem_ui",
-  "version": "5.0.16",
-  "description": "",
+  "name": "kamuitracker-chatgpt-apps",
+  "version": "1.0.0",
+  "description": "ChatGPT App for KamuiTracker with MCP integration",
   "main": "host/main.ts",
   "scripts": {
     "build": "tsx ./build-all.mts",
